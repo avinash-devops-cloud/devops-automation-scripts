@@ -1,0 +1,119 @@
+Dec 29 00:04:03 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 00:15:14 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 00:30:47 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 00:30:47 Avinashs-MacBook-Air syslogd[549]: Configuration Notice:
+	ASL Module "com.apple.cdscheduler" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:30:47 Avinashs-MacBook-Air syslogd[549]: Configuration Notice:
+	ASL Module "com.apple.install" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:30:47 Avinashs-MacBook-Air syslogd[549]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/asl" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Dec 29 00:30:47 Avinashs-MacBook-Air syslogd[549]: Configuration Notice:
+	ASL Module "com.apple.authd" sharing output destination "/var/log/system.log" with ASL Module "com.apple.asl".
+	Output parameters from ASL Module "com.apple.asl" override any specified in ASL Module "com.apple.authd".
+Dec 29 00:30:47 Avinashs-MacBook-Air syslogd[549]: Configuration Notice:
+	ASL Module "com.apple.authd" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:30:47 Avinashs-MacBook-Air syslogd[549]: Configuration Notice:
+	ASL Module "com.apple.eventmonitor" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:30:47 Avinashs-MacBook-Air syslogd[549]: Configuration Notice:
+	ASL Module "com.apple.mail" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:30:47 Avinashs-MacBook-Air syslogd[549]: Configuration Notice:
+	ASL Module "com.apple.performance" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:30:47 Avinashs-MacBook-Air syslogd[549]: Configuration Notice:
+	ASL Module "com.apple.iokit.power" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:30:47 Avinashs-MacBook-Air syslogd[549]: Configuration Notice:
+	ASL Module "com.apple.contacts.ContactsAutocomplete" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:30:47 Avinashs-MacBook-Air syslogd[549]: Configuration Notice:
+	ASL Module "com.apple.mkb" sharing output destination "/private/var/log/keybagd.log" with ASL Module "com.apple.mkb.internal".
+	Output parameters from ASL Module "com.apple.mkb.internal" override any specified in ASL Module "com.apple.mkb".
+Dec 29 00:30:47 Avinashs-MacBook-Air syslogd[549]: Configuration Notice:
+	ASL Module "com.apple.mkb" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:30:47 Avinashs-MacBook-Air syslogd[549]: Configuration Notice:
+	ASL Module "com.apple.MessageTracer" claims selected messages.
+	Those messages may not appear in standard system log files or in the ASL database.
+Dec 29 00:48:41 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 01:04:36 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 01:16:13 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 01:33:59 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 01:50:59 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 02:07:48 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 02:23:14 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 02:41:28 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 02:57:22 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 03:13:18 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 03:30:40 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 03:48:36 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 04:04:42 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 04:22:41 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 04:38:22 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 04:55:59 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 05:12:17 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 05:26:33 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 05:42:10 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 05:58:33 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 06:16:51 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 06:33:49 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 06:50:36 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 07:02:35 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 07:16:38 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 07:27:29 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 07:38:30 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 07:53:13 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 08:06:49 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 08:17:47 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 08:28:46 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 08:39:40 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 08:52:59 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 09:07:27 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 09:18:23 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 09:33:55 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 09:45:19 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 09:59:14 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 10:09:52 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 10:21:01 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 10:39:01 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 10:52:06 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 11:04:20 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 11:19:49 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 11:36:24 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 11:52:27 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 12:05:20 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 12:22:06 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 12:39:57 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 12:55:05 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 13:06:20 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 13:24:02 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 13:44:08 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 13:59:21 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 14:22:57 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 14:39:17 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 14:54:20 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 15:08:20 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 15:28:20 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 15:44:39 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 16:00:03 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 16:26:38 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 16:45:33 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 17:02:44 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 17:26:49 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 17:44:04 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 18:00:10 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 18:11:20 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 18:28:58 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 18:45:50 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 18:56:44 Avinashs-MacBook-Air login[18701]: USER_PROCESS: 18701 ttys000
+Dec 29 18:56:44 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 19:16:44 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 19:31:37 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 19:43:59 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 19:55:03 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
+Dec 29 20:07:47 Avinashs-MacBook-Air syslogd[549]: ASL Sender Statistics
