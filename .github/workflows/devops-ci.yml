@@ -1,0 +1,24 @@
+name: DevOps Automation Scripts CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate Shell Scripts (syntax check)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y shellcheck
+          shellcheck shell-scripts/*.sh
+
+      - name: Run Python Automation Script
+        run: |
+          python3 python-scripts/system_info.py
+
