@@ -1,3 +1,7 @@
+![GitHub Repo size](https://img.shields.io/github/repo-size/avinash-devops-cloud/devops-automation-scripts)
+![GitHub last commit](https://img.shields.io/github/last-commit/avinash-devops-cloud/devops-automation-scripts)
+
+
 # DevOps Automation Scripts
 
 This project contains beginner-to-intermediate automation scripts using Shell and Python, built as part of my DevOps & SRE learning journey.
